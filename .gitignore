@@ -2,3 +2,8 @@
 *.exe
 .DS_Store
 x86
+.mk
+.prefs
+.project
+.cproject
+Makefile
